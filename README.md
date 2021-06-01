@@ -10,3 +10,5 @@ Set it in the env variable `AUTHORIZATION=your_token`
 5. Run script `npm start`
 
 6. Done!
+
+Credits: D o u g l a s#1353 for the idea.
